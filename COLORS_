@@ -58,6 +58,7 @@ off '\x1b[0m'
 ## 256 colors ##
 # \x1B[38;5;#m foreground, # = 0 - 255
 # \x1B[48;5;#m background, # = 0 - 255
+
 ## True Color ##
 # \x1B[38;2;r;g;bm r = red, g = green, b = blue foreground
 # \x1B[48;2;r;g;bm r = red, g = green, b = blue background
